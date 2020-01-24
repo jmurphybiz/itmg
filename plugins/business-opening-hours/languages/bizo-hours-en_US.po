@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: advertica\n"
+"POT-Creation-Date: 2016-02-15 11:21+0530\n"
+"PO-Revision-Date: 2016-02-15 11:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: SketchThemes <info@sketchthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bizo-hours-shortcode.php:35 ../bizo-hours-shortcode.php:36
+#: ../bizo-hours-shortcode.php:37 ../bizo-hours-shortcode.php:38
+#: ../bizo-hours-shortcode.php:39 ../bizo-hours-shortcode.php:40
+#: ../bizo-hours-shortcode.php:41 ../bizo-hours-shortcode.php:42
+#: ../bizo-hours-shortcode.php:43 ../bizo-hours-shortcode.php:44
+#: ../bizo-hours-shortcode.php:45 ../bizo-hours-shortcode.php:46
+#: ../bizo-hours-shortcode.php:47 ../bizo-hours-shortcode.php:48
+#: ../bizo-hours-widget.php:49 ../bizo-hours-widget.php:55
+#: ../bizo-hours-widget.php:61 ../bizo-hours-widget.php:67
+#: ../bizo-hours-widget.php:73 ../bizo-hours-widget.php:79
+#: ../bizo-hours-widget.php:85
+msgid "Close"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:55 ../bizo-hours-widget.php:43
+msgid "Day"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:55 ../bizo-hours-widget.php:43
+msgid "From"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:55 ../bizo-hours-widget.php:43
+msgid "To"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:61 ../bizo-hours-widget.php:47
+#: ../bizo-hours-widget.php:49 ../bizo-hours.php:318
+msgid "Monday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:65 ../bizo-hours-widget.php:53
+#: ../bizo-hours-widget.php:55 ../bizo-hours.php:326
+msgid "Tuesday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:69 ../bizo-hours-widget.php:59
+#: ../bizo-hours-widget.php:61 ../bizo-hours.php:334
+msgid "Wednesday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:73 ../bizo-hours-widget.php:65
+#: ../bizo-hours-widget.php:67 ../bizo-hours.php:342
+msgid "Thursday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:77 ../bizo-hours-widget.php:71
+#: ../bizo-hours-widget.php:73 ../bizo-hours.php:350
+msgid "Friday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:81 ../bizo-hours-widget.php:77
+#: ../bizo-hours-widget.php:79 ../bizo-hours.php:358
+msgid "Saturday"
+msgstr ""
+
+#: ../bizo-hours-shortcode.php:85 ../bizo-hours-widget.php:83
+#: ../bizo-hours-widget.php:85 ../bizo-hours.php:366
+msgid "Sunday"
+msgstr ""
+
+#: ../bizo-hours-widget.php:13 ../bizo-hours-widget.php:102
+msgid "Business Opening Hours"
+msgstr ""
+
+#: ../bizo-hours-widget.php:14
+msgid "Business Opening Hours Widget"
+msgstr ""
+
+#: ../bizo-hours-widget.php:105
+msgid "Title:"
+msgstr ""
+
+#: ../bizo-hours.php:33
+msgid "Settings Admin"
+msgstr ""
+
+#: ../bizo-hours.php:34
+msgid "Business Hours"
+msgstr ""
+
+#: ../bizo-hours.php:51
+msgid "Business Hours Settings"
+msgstr ""
+
+#: ../bizo-hours.php:302
+msgid "Select Timezone"
+msgstr ""
+
+#: ../bizo-hours.php:310
+msgid "Time Format"
+msgstr ""
+
+#: ../bizo-hours.php:375
+msgid "Highlight Current Day"
+msgstr ""
+
+#: ../bizo-hours.php:391
+msgid "Genrated Shortcode"
+msgstr ""
+
+#: ../bizo-hours.php:462
+msgid ""
+"<div id=\"bizohour-setting-note\"><p><br/>The saved settings will work in "
+"the Business Hours Widget.You can also use Genrated Shortcode in the page or "
+"post.</p></div><hr/>"
+msgstr ""
